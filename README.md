@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This site showcases my journey as a Data Analyst and Product Manager, featuring my projects, experiences, and interests.
 
 ## 🌐 Live Website
-Visit my portfolio at: [ehlaam.github.io](https://ehlaam.github.io)
+Visit my portfolio at: [eih27.github.io](https://eih27.github.io)
 
 ## 👨‍💻 About Me
 I'm a Master of Engineering in Engineering Management student at Cornell University with a passion for data-driven innovation and product excellence. My experience spans:
